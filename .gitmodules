@@ -1,0 +1,6 @@
+[submodule "usart"]
+	path = usart
+	url = https://github.com/dartax009/usart.git
+[submodule "i2c"]
+	path = i2c
+	url = https://github.com/dartax009/i2c.git
