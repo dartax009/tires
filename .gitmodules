@@ -1,0 +1,3 @@
+[submodule "usart"]
+	path = usart
+	url = https://github.com/dartax009/usart.git
